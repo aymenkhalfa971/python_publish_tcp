@@ -1,6 +1,6 @@
 #include "mqtt.h"
 #define PUBLISH_TOPIC "EXAMPLE_TOPIC"
-
+#define DEBUG
 #ifdef DEBUG
 #include <iostream>
 #endif
